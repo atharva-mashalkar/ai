@@ -1,0 +1,25 @@
+h2
+{
+	text-align: center;
+	text-decoration: underline;
+	color:rgba(225,0,0,0.7);
+}
+h2:hover
+{
+	transform: scale(1.5);
+}
+body
+{
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+#div1
+{
+	box-shadow: 3px 5px 5px #888888; 
+}
+#type1
+{
+	text-align: center;
+	
+}
+
